@@ -1,6 +1,6 @@
-# Politique de confidentialité — LOTO-AI
+# Politique de confidentialité — Multimodal
 
-Cette politique de confidentialité s’applique à l’application mobile **LOTO-AI**, développée par **Intelligence Industrielle Inc.** (ci-après « le Prestataire de services »). L’application est destinée à un usage professionnel et est fournie « telle quelle ».
+Cette politique de confidentialité s’applique à l’application mobile **Multimodal**, développée par **Intelligence Industrielle Inc.** (ci-après « le Prestataire de services »). L’application est destinée à un usage professionnel et est fournie « telle quelle ».
 
 ## 1. Collecte et utilisation des informations
 
@@ -10,25 +10,25 @@ L’Application collecte uniquement les données nécessaires à son fonctionnem
 
 **Contenu utilisateur**
 
-* Photos et images capturées par l’utilisateur
-* Données audio (notes vocales)
-* Contenu texte (notes et descriptions)
+- Photos et images capturées par l’utilisateur
+- Données audio (notes vocales)
+- Contenu texte (notes et descriptions)
 
 **Localisation**
 
-* Position géographique précise de l’appareil (GPS), utilisée pour associer les données à un emplacement spécifique
+- Position géographique précise de l’appareil (GPS), utilisée pour associer les données à un emplacement spécifique
 
 **Identifiant utilisateur**
 
-* Un identifiant utilisateur interne permettant de relier les données à un compte
+- Un identifiant utilisateur interne permettant de relier les données à un compte
 
 ## 2. Utilisation des données
 
 Les données collectées sont utilisées uniquement pour :
 
-* Fournir les fonctionnalités principales de l’application
-* Générer et structurer des fiches à partir des données collectées
-* Permettre le traitement des données par des systèmes d’intelligence artificielle
+- Fournir les fonctionnalités principales de l’application
+- Générer et structurer des fiches à partir des données collectées
+- Permettre le traitement des données par des systèmes d’intelligence artificielle
 
 Aucune donnée n’est utilisée à des fins de publicité, de marketing ou de suivi comportemental.
 
@@ -44,9 +44,9 @@ Les données ne sont pas vendues ni partagées avec des tiers à des fins commer
 
 Les données peuvent être partagées uniquement dans les cas suivants :
 
-* Pour assurer le fonctionnement technique du service
-* Pour se conformer à une obligation légale
-* Pour protéger les droits et la sécurité des utilisateurs ou du Prestataire de services
+- Pour assurer le fonctionnement technique du service
+- Pour se conformer à une obligation légale
+- Pour protéger les droits et la sécurité des utilisateurs ou du Prestataire de services
 
 ## 5. Conservation des données
 
@@ -62,8 +62,8 @@ Le Prestataire de services met en place des mesures techniques et organisationne
 
 Les utilisateurs peuvent :
 
-* Demander l’accès à leurs données
-* Demander la correction ou la suppression de leurs données
+- Demander l’accès à leurs données
+- Demander la correction ou la suppression de leurs données
 
 Toute demande peut être adressée à l’adresse suivante :
 [achats@intelligenceindustrielle.com](mailto:achats@intelligenceindustrielle.com)

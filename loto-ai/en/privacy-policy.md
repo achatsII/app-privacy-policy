@@ -1,6 +1,6 @@
-# Privacy Policy — LOTO-AI
+# Privacy Policy — Multimodal
 
-This Privacy Policy applies to the **LOTO-AI** mobile application, developed by **Intelligence Industrielle Inc.** (hereinafter referred to as the “Service Provider”). The application is intended for professional use and is provided "as is".
+This Privacy Policy applies to the **Multimodal** mobile application, developed by **Intelligence Industrielle Inc.** (hereinafter referred to as the “Service Provider”). The application is intended for professional use and is provided "as is".
 
 ## 1. Information Collection and Use
 
@@ -10,25 +10,25 @@ The Application collects only the data necessary for its operation.
 
 **User Content**
 
-* Photos and images captured by the user
-* Audio data (voice notes)
-* Text content (notes and descriptions)
+- Photos and images captured by the user
+- Audio data (voice notes)
+- Text content (notes and descriptions)
 
 **Location**
 
-* Precise geographic location of the device (GPS), used to associate collected data with a specific location
+- Precise geographic location of the device (GPS), used to associate collected data with a specific location
 
 **User Identifier**
 
-* An internal user identifier used to associate data with a user account
+- An internal user identifier used to associate data with a user account
 
 ## 2. Use of Data
 
 The collected data is used solely to:
 
-* Provide the core functionalities of the application
-* Generate and structure reports or records based on collected data
-* Enable processing through artificial intelligence systems
+- Provide the core functionalities of the application
+- Generate and structure reports or records based on collected data
+- Enable processing through artificial intelligence systems
 
 No data is used for advertising, marketing, or user tracking purposes.
 
@@ -44,9 +44,9 @@ Data is not sold or shared with third parties for commercial purposes.
 
 Data may be shared only in the following cases:
 
-* To ensure the technical operation of the service
-* To comply with legal obligations
-* To protect the rights, safety, or integrity of users or the Service Provider
+- To ensure the technical operation of the service
+- To comply with legal obligations
+- To protect the rights, safety, or integrity of users or the Service Provider
 
 ## 5. Data Retention
 
@@ -62,8 +62,8 @@ The Service Provider implements reasonable technical and organizational measures
 
 Users may:
 
-* Request access to their data
-* Request correction or deletion of their data
+- Request access to their data
+- Request correction or deletion of their data
 
 Requests can be sent to:
 [achats@intelligenceindustrielle.com](mailto:achats@intelligenceindustrielle.com)
